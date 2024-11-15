@@ -1,0 +1,3 @@
+| Date  | Code | Publication                  | Paper                                                                                                         | 主要内容                                                        |
+|-------|-----------|------------------------------|--------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
+|24.03|https://github.com/RUCAIBox/LC-Rec/|ICDE 24|[Adapting Large Language Models by Integrating Collaborative Semantics for Recommendation](https://link-to-paper.com)||
