@@ -13,9 +13,8 @@
 |24.03|https://github.com/lynnliu030/vldb25|arxiv|Optimizing LLM Queries in Relational Workloads|sql中优化llm的reasoning，一些底层我看不懂的缓存啥的，以及删除重复的冗余推理请求|
 |24.03|https://github.com/nexync/dated_data/|arXiv|Dated Data: Tracing Knowledge Cutoffs in Large Language Models|关于有效Cutoffs和报告的cutoffs不一样的原因（1.新储存中存在大量旧数据；2.复杂的LLM的数据删除方案（语意重复和近似重复）|
 |24.06||FORGE'24 （ICSE的workshop，24年开始的）|MeTMaP: Metamorphic Testing for Detecting False Vector Matching Problems in LLM Augmented Generation|提出一种检测生成错误的框架（语义相似的应该匹配，不相似的不匹配）|
-|24.06|deepmind的，没给代码|arxiv|To Believe or Not to Believe Your LLM|benchmark 3.0 这个是一样的|
-|24.03|https://github.com/KID-22/Cocktail|ACL'24|Cocktail: A Comprehensive Information Retrieval Benchmark with LLM-Generated Documents Integration|benchmark 2.0 感觉纯做实验，没提出新的东西|
-|24.02|https://anonymous.4open.science/r/llm_eval-E16D/|arxiv|Benchmarking LLMs on the Semantic Overlap Summarization Task|benchmark 1.0 |
+|24.06|deepmind的，没给代码|arxiv|To Believe or Not to Believe Your LLM|benchmark  这个是一样的|
+|24.03|https://github.com/KID-22/Cocktail|ACL'24|Cocktail: A Comprehensive Information Retrieval Benchmark with LLM-Generated Documents Integration|benchmark  感觉纯做实验，没提出新的东西，该论文提供了一个创新的基准测试Cocktail，用于评估和理解在LLM时代信息检索模型在处理混合语料库时的性能和偏见，对于IR领域的研究具有重要意义|
 |23.09||EMNLP'23|Text Encoders Lack Knowledge: Leveraging Generative LLMs for Domain-Specific Semantic Textual Similarity|讨论文本相似性的，考虑继续详细看|
 
 
